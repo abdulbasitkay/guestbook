@@ -1,7 +1,6 @@
 # A Sample Java Web-Application
 :experimental:
 
-image:https://github.com/abdulbasitkay/guestbook.svg?branch=master["Build Status", link="https://github.com/abdulbasitkay/guestbook.git"]
 
 Purpose of this sample project is to make students familiar with basic technologies they're going to use during the Software Engineering Lab at Technical University of Dresden.
 
